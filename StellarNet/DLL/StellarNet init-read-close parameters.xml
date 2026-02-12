@@ -1,0 +1,32 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>23.1f276</Version>
+<Array>
+<Name>Operating Parameters</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Operation Settings</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Integration Time (ms)</Name>
+<Val>100</Val>
+</I32>
+<I32>
+<Name>Number of Scans to Average</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>Optical Smoothing Level</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>Digitizer Clock Rate Setting</Name>
+<Val>3</Val>
+</I32>
+<Boolean>
+<Name>Temp  Compensation </Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+</Array>
+</LVData>
